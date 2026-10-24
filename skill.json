@@ -1,0 +1,11 @@
+{
+  "name": "genpark-distributed-dead-letter-queue-and-poison-message-triage-skill",
+  "version": "1.0.0",
+  "description": "Captures poison payloads into dead-letter queues with automated classification and backoff retry schedules",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
